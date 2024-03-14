@@ -17,3 +17,6 @@
 # **Usage**
 1. Clone the repository to your local machine.
 2. Open the `index.html` file in your web browser.
+   
+# Demo
+You can see a live demo of the application [here](https://amaansayyed.github.io/E-commerce-JS/).
